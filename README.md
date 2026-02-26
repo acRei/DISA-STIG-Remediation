@@ -1,6 +1,6 @@
 # DISA STIG Remediation Repository
 
-## 📌 Overview
+##  Overview
 
 This repository contains practical remediation scripts, configurations, and documentation for implementing DISA STIG (Security Technical Implementation Guide) controls across various systems.
 
@@ -13,7 +13,7 @@ Each remediation is designed to be clear, testable, and aligned with DISA STIG r
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Provide ready-to-use remediation examples for common DISA STIG findings
 * Show how STIG controls can be enforced using scripts and configuration changes
@@ -22,7 +22,7 @@ Each remediation is designed to be clear, testable, and aligned with DISA STIG r
 
 ---
 
-## 🛠️ What Each Remediation Includes
+##  What Each Remediation Includes
 
 Each remediation file aims to include:
 * **STIG ID** (e.g., WN11-AU-000500)
@@ -35,7 +35,7 @@ Each remediation file aims to include:
 
 ---
 
-## 🧪 Testing Environment
+##  Testing Environment
 
 All remediations are tested in lab environments, including:
 * Virtual machines
@@ -57,7 +57,7 @@ Specific references for each control are documented alongside their respective r
 
 ---
 
-## 🚀 Roadmap
+##  Roadmap
 
 Planned additions include:
 * Expanded Windows 11 STIG coverage
@@ -68,6 +68,6 @@ Planned additions include:
 
 ---
 
-## 🤝 Disclaimer
+##  Disclaimer
 
-This repository is for educational and demonstration purposes only. Scripts are provided as-is with no warranty. The author is not responsible for system misconfigurations or unintended impacts.
+This repository is for educational and demonstration purposes only. Scripts are provided as-is with no warranty. I am not responsible for system misconfigurations or unintended impacts.
