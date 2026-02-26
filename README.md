@@ -46,7 +46,7 @@ All remediations are tested in lab environments, including:
 
 ---
 
-## 📚 References
+##  References
 
 * [DISA STIG Documentation](https://public.cyber.mil/stigs/)
 * [STIG Viewer](https://public.cyber.mil/stigs/srg-stig-tools/)
